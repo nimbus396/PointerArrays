@@ -96,9 +96,9 @@ void StringArrayExample(void) {
 	char** strArray = NULL;
 
 	/* String we will put into dynamic array.         */
-	char word0[] = "Hello World.";
-	char word1[] = "Another Hello World.";
-	char word2[] = "Yet Another Hello World.";
+	char word0[] = "Hello World!";
+	char word1[] = "Another Hello World!";
+	char word2[] = "Yet Another Hello World!";
 
 	/* Since this is a dynamic, we have to keep track */
 	/* of what we are putting into the array.         */
