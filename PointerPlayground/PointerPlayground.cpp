@@ -301,7 +301,7 @@ void ClassArrayExample(void) {
 	};
 
 	/* Classes are pointers to an area in memory. We  */
-	/* will need to use a pointe to a pointer.        */
+	/* will need to use a pointer to a pointer.        */
 	dataClass** classArray;
 
 	/* Define an instance counter.                    */
